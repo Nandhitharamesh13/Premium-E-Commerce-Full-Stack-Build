@@ -10,7 +10,7 @@ The application is designed with a clean and aesthetic user interface, intuitive
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ---
 
