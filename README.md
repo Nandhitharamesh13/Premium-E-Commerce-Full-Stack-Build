@@ -16,31 +16,31 @@ The application is designed with a clean and aesthetic user interface, intuitive
 
 ## 🛍️ Product Listing
 
-![Product Listing](screenshots/products.png)
+![Product Listing](Screenshots/products.png)
 
 ---
 
 ## 📦 Product Details
 
-![Product Details](screenshots/product-details.png)
+![Product Details](Screenshots/product-details.png)
 
 ---
 
 ## 🛒 Shopping Cart
 
-![Shopping Cart](screenshots/cart.png)
+![Shopping Cart](Screenshots/cart.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/login.png)
 
 ---
 
 ## 📝 Registration Page
 
-![Register Page](screenshots/register.png)
+![Register Page](Screenshots/register.png)
 
 ---
 
