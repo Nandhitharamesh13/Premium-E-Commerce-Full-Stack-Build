@@ -44,12 +44,6 @@ The application is designed with a clean and aesthetic user interface, intuitive
 
 ---
 
-## 📱 Mobile Responsive Design
-
-![Mobile Responsive](screenshots/mobile.png)
-
----
-
 # ✨ Features
 
 ### 👤 User Features
